@@ -181,6 +181,10 @@ p.lead {
   color: #000000;
 }
 
+p.let {
+  text-align: left;
+}
+
 @media only screen and (max-width:800px) {
   p.lead {
     font-size: 1.8rem;
